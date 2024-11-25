@@ -1,10 +1,10 @@
 # 灰名單-直連
 
 payload:
-  - '+.gamer520.com'
-  - '+.520switch.com'
-  - '+.acggw.one'
-  - '+.vikacg.com'
+  - DOMAIN-SUFFIX,gamer520.com
+  - DOMAIN-SUFFIX,520switch.com
+  - DOMAIN-SUFFIX,acggw.one
+  - DOMAIN-SUFFIX,vikacg.com
 
 # 免費雲盤
-  - '+.gofile.io'
+  - DOMAIN-SUFFIX,gofile.io
