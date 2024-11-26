@@ -1,3 +1,4 @@
 # 白名單-代理
 payload:
    - DOMAIN-SUFFIX,vikacg.com
+   - DOMAIN,api-drive.mypikpak.com
