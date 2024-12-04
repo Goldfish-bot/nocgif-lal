@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "vikacg.com"
+            ],
+            "domain": [
+                "api-drive.mypikpak.com",
+                "like.gamer520.com"
+            ],
+            "doamin_keyword": [
+                "z-lib"
+            ]
+        }
+    ]
+}

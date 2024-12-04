@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "gamer520.com",
+                "520switch.com",
+                "gofile.io"
+            ],
+            "domain": [
+            ],
+            "doamin_keyword": [
+                "dl-z01a-",
+                "vip-lixian-"
+            ]
+        }
+    ]
+}
