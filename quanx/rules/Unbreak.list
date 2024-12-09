@@ -1,7 +1,7 @@
 # Unbreak
 # 由于广告屏蔽无法做到100%完美，用以修正误屏蔽的域名
 # > dedao
-HOST-SUFFIX,umiwi.com
+host-suffix,umiwi.com
 # > general
 HOST,app.adjust.com
 HOST,app.appsflyer.com
