@@ -1,6 +1,6 @@
-HOST,mask-api.icloud.com
-HOST,mask-api.fe.apple-dns.net
-HOST,mask.icloud.com
-HOST,mask.apple-dns.net
-HOST,mask-h2.icloud.com
-HOST,mask-t.apple-dns.net
+HOST,mask-api.icloud.com,proxy
+HOST,mask-api.fe.apple-dns.net,proxy
+HOST,mask.icloud.com,proxy
+HOST,mask.apple-dns.net,proxy
+HOST,mask-h2.icloud.com,proxy
+HOST,mask-t.apple-dns.net,proxy
