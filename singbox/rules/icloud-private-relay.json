@@ -8,7 +8,8 @@
             "mask.icloud.com",
             "mask.apple-dns.net",
             "mask-h2.icloud.com",
-            "mask-t.apple-dns.net"
+            "mask-t.apple-dns.net",
+            "metrics.icloud.com"
           ]
       }
   ]
