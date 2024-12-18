@@ -1,2 +1,3 @@
 # 禁止-連結
 payload:
+ - DOMAIN-SUFFIX,gnews.org,REJECT
