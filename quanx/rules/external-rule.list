@@ -7,3 +7,5 @@ HOST,api-drive.mypikpak.com,📹 Pikpak
 HOST,metrics.icloud.com,iCloud服务
 
 HOST-KEYWORD,z-lib,🚀 国际流量
+
+HOST-SUFFIX,gh-proxy.com,🚗 直连
