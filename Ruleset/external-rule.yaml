@@ -5,3 +5,7 @@ payload:
   - DOMAIN-KEYWORD,vip-lixian-,📹 Pikpak-cdn
   
   - DOMAIN-KEYWORD,z-lib,📖 Zlibrary
+
+  # google 更新
+  - DOMAIN,dl.google.com, 谷歌服务
+  - DOMAIN,update.googleapis.com, 谷歌服务

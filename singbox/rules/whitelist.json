@@ -7,7 +7,9 @@
             ],
             "domain": [
                 "api-drive.mypikpak.com",
-                "like.gamer520.com"
+                "like.gamer520.com",
+                "dl.google.com",
+                "update.googleapis.com"
             ],
             "domain_keyword": [
                 "z-lib"
