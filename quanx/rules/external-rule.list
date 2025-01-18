@@ -1,8 +1,8 @@
 #HOST-KEYWORD,huojian666,🚀 国际流量
 # PikPak
 HOST-KEYWORD,dl-z01a-,📹 Pikpak-cdn
-HOST-KEYWORD,dl-a10b-,📹 Pikpak-cdn
-HOST-SUFFIX,dl-a10b-,📹 Pikpak-cdn
+HOST,dl-a10b-1193.mypikpak.com,📹 Pikpak-cdn
+# HOST-SUFFIX,dl-a10b-,📹 Pikpak-cdn
 HOST-KEYWORD,vip-lixian-,📹 Pikpak-cdn
 HOST,api-drive.mypikpak.com,📹 Pikpak
 # icloud
