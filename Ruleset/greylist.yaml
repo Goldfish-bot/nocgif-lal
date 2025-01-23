@@ -7,3 +7,6 @@ payload:
    - DOMAIN-KEYWORD,dl-z01a-
    - DOMAIN-KEYWORD,vip-lixian-
    - DOMAIN-SUFFIX,gh-proxy.com
+   - DOMAIN-SUFFIX,svc.ms
+   # PikPak
+   - IP-CIDR,8.219.220.18/32

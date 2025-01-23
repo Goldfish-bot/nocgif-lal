@@ -2,3 +2,5 @@ HOST-SUFFIX,gamer520.com,direct
 HOST-SUFFIX,520switch.com,direct
 # 免費雲盤 - gofile
 HOST-SUFFIX,gofile.io,direct
+HOST-SUFFIX,svc.ms,direct
+IP-CIDR,8.219.220.18/32,direct

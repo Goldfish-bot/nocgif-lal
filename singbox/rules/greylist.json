@@ -9,10 +9,17 @@
                 "gh-proxy.com"
             ],
             "domain": [
+                "dl-a10b-1193.mypikpak.com",
+                "dl-a10b-0860.mypikpak.com",
+                "dl-z10a-0054.mypikpak.com",
+                "vip-lixian-07.mypikpak.com"
             ],
             "domain_keyword": [
                 "dl-z01a-",
                 "vip-lixian-"
+            ],
+            "ip_cidr": [
+                "8.219.220.18/32"
             ]
         }
     ]

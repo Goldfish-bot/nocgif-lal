@@ -2,7 +2,13 @@ payload:
   - DOMAIN-KEYWORD,huojian666,🚀 国际流量
 
   - DOMAIN-KEYWORD,dl-z01a-,📹 Pikpak-cdn
-  - DOMAIN-KEYWORD,vip-lixian-,📹 Pikpak-cdn
+  # DOMAIN-SUFFIX,dl-a10b-,📹 Pikpak-cdn
+  # DOMAIN-KEYWORD,vip-lixian-,📹 Pikpak-cdn
+  - DOMAIN,dl-a10b-1193.mypikpak.com,📹 Pikpak-cdn
+  - DOMAIN,dl-a10b-0860.mypikpak.com,📹 Pikpak-cdn
+  - DOMAIN,dl-z10a-0054.mypikpak.com,📹 Pikpak-cdn
+  - DOMAIN,vip-lixian-07.mypikpak.com,📹 Pikpak-cdn
+
   
   - DOMAIN-KEYWORD,z-lib,📖 Zlibrary
 
