@@ -9,7 +9,8 @@
                 "api-drive.mypikpak.com",
                 "like.gamer520.com",
                 "dl.google.com",
-                "update.googleapis.com"
+                "update.googleapis.com",
+                "formulae.brew.sh"
             ],
             "domain_keyword": [
                 "z-lib"
