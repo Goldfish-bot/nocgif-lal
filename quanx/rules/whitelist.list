@@ -2,3 +2,9 @@ HOST-SUFFIX,vikacg.com,proxy
 HOST,api-drive.mypikpak.com,proxy
 HOST,like.gamer520.com,proxy
 HOST,formulae.brew.sh,proxy
+HOST-SUFFIX, vk.com, 白名单
+HOST-SUFFIX, hanime1.me, 白名单
+HOST-SUFFIX, manhuagui.com, 白名单
+HOST-SUFFIX, hgamefree.info, 白名单
+HOST, vvload.com, 白名单
+HOST-SUFFIX, vercel.app, 白名单
