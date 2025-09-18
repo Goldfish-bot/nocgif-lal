@@ -7,6 +7,7 @@ HOST,ugc.steampowered.com,Steam-服务
 HOST,cloud.steampowered.com,Steam-服务
 HOST,content1.steampowered.com,Steam-服务
 HOST,content-origin.steampowered.com,Steam-服务
+HOST-SUFFIX,steamserver.net,Steam-服务
 
 
 # steam cdn (直连)
