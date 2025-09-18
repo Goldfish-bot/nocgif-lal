@@ -1,0 +1,16 @@
+# steam service (需要代理)
+HOST,store.steampowered.com,Steam-服务
+HOST,steamcommunity.com,Steam-服务
+HOST,api.steampowered.com,Steam-服务
+HOST,cloud.steampowered.com,Steam-服务
+HOST,ugc.steampowered.com,Steam-服务
+HOST,cloud.steampowered.com,Steam-服务
+HOST,content1.steampowered.com,Steam-服务
+HOST,content-origin.steampowered.com,Steam-服务
+
+
+# steam cdn (直连)
+HOST-SUFFIX,steamcontent.com,Steam-cdn
+HOST-SUFFIX,steamcdn-a.akamaihd.net,Steam-cdn
+HOST,client-download.steampowered.com,Steam-cdn
+HOST,media.steampowered.com,Steam-cdn
